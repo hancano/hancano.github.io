@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Echoes of Darkness
+keywords: dungeon crawler, single-player game, mage, strategic gameplay, 3D, horror, zombies
 ---
 
 ![Screenshot](/assets/img/img3.png){: .img-fluid }

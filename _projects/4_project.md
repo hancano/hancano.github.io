@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Great Space Race
+keywords: game development, 3D game, first-person game, space race, C#, MonoGame
 ---
 
 ![Screenshot](/assets/img/img4.png){: .img-fluid }

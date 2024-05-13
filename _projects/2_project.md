@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CEO Compensation Analysis
+keywords: CEO compensation, income inequality, corporate structures, fair pay practices, interactive app
 ---
 
 ![Screenshot](/assets/img/img2.png){: .img-fluid }
