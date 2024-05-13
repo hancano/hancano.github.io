@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hancano.com/sitemap.xml
+Sitemap: https://hancano.github.io/sitemap.xml
