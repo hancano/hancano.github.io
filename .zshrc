@@ -1,3 +1,4 @@
+export PATH="/path/to/anaconda3/bin:$PATH"
 export PATH="/opt/homebrew/opt/ruby/bin:$PATH"a
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 source /opt/homebrew/opt/chruby/share/chruby/auto.sh
