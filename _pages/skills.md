@@ -2,10 +2,24 @@
 layout: page
 title: skills
 permalink: /skills/
+nav: true
 ---
 
-<ul>
-  {% for skill in site.data.skills %}
-    <li>{{ skill }}</li>
-  {% endfor %}
-</ul>
+relevant coursework:
+  - subject: mathematics and statistics
+    classes:
+      - name: calculus i
+      - name: applied statistics
+      - name: discrete structures
+      
+  - subject: computer science
+    classes:
+      - name: object-oriented problem solving, data structures and algorithms
+      - name: software design and development
+      - name: game design and programming
+  
+  - subject: sociology
+    classes:
+      - name: contemporary sociological theory
+      - name: methodological empirical methods
+      - name: global ethnography

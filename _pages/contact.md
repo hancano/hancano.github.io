@@ -5,6 +5,4 @@ nav: true
 permalink: /contact/
 ---
 
-school email: {{ site.email }}
-
-linkedin: <a href="{{ site.url }}">{{ site.url }}</a>
+feel free to reach me at {{ site.email }}
