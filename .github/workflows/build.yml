@@ -1,0 +1,4 @@
+- name: Install Jupyter Notebook
+  run: |
+    python -m pip install --upgrade pip
+    pip install jupyter
