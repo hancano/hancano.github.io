@@ -1,0 +1,17 @@
+skills:
+  - name: programming languages
+    items:
+      - java
+      - python
+      - r
+      - c
+      - c#
+  - name: operating systems
+    items:
+      - windows
+      - linux
+      - macOS
+  - name: version control
+    items:
+      - git
+      - github

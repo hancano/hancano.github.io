@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-hi, i'm han! i'm a rising 4th year computer science and sociology student at grinnell college. outside academia, i like 
+hi, i'm han! i'm a rising 4th year computer science and sociology student at grinnell college. outside academia, i like hanging out with my friends (and cats)!
