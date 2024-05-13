@@ -2,5 +2,9 @@
 layout: default
 title: resume
 nav: true
-cv_pdf: /assets/pdf/Han_Cano_Resume.pdf
+redirect_from: /resume
 ---
+
+<script>
+  window.location.href = "/assets/pdf/Han_Cano_Resume.pdf";
+</script>

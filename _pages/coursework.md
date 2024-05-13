@@ -4,21 +4,19 @@ title: coursework
 permalink: /coursework/
 nav: true
 ---
+
 relevant coursework:
-  - subject: mathematics and statistics
-    classes:
-      - name: calculus i
-      - name: applied statistics
-      - name: discrete structures
+  - mathematics and statistics
+      - calculus i
+      - applied statistics
+      - discrete structures
       
-  - subject: computer science
-    classes:
-      - name: object-oriented problem solving, data structures and algorithms
-      - name: software design and development
-      - name: game design and programming
+  - computer science
+      - object-oriented problem solving, data structures and algorithms
+      - software design and development
+      - game design and programming
   
-  - subject: sociology
-    classes:
-      - name: contemporary sociological theory
-      - name: methodological empirical methods
-      - name: global ethnography
+  - sociology
+      - contemporary sociological theory
+      - methodological empirical methods
+      - global ethnography
