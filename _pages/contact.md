@@ -1,11 +1,10 @@
 ---
 layout: page
 title: contact
+nav: true
 permalink: /contact/
 ---
 
 school email: {{ site.email }}
-
-work email: {{ site.phone }}
 
 linkedin: <a href="{{ site.url }}">{{ site.url }}</a>
